@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Teacher_Record_Project\Teacher_Record_Project\Teacher_Record_Project\obj\Debug\Teacher_Record_Project.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Teacher_Record_Project\Teacher_Record_Project\Teacher_Record_Project\obj\Debug\Teacher_Record_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Teacher_Record_Project\Teacher_Record_Project\Teacher_Record_Project\obj\Debug\Teacher_Record_Project.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Teacher_Record_Project\Teacher_Record_Project\Teacher_Record_Project\bin\Debug\Teacher_Record_Project.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Teacher_Record_Project\Teacher_Record_Project\Teacher_Record_Project\bin\Debug\Teacher_Record_Project.exe
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Teacher_Record_Project\Teacher_Record_Project\Teacher_Record_Project\bin\Debug\Teacher_Record_Project.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Teacher_Record_Project\Teacher_Record_Project\Teacher_Record_Project\obj\Debug\Teacher_Record_Project.exe
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Teacher_Record_Project\Teacher_Record_Project\Teacher_Record_Project\obj\Debug\Teacher_Record_Project.pdb
