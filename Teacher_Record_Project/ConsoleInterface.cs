@@ -9,7 +9,7 @@ public static class ConsoleInterface
         Console.WriteLine("2. Update Teacher");
         Console.WriteLine("3. View All Teachers");
         Console.WriteLine("4. Exit");
-        Console.Write("Enter your choice: ");
+        Console.Write("Input choice: ");
     }
 
     public static void AddTeacher(List<Teacher> teachers)
